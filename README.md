@@ -7,5 +7,5 @@ In this project l will be learning and consistently practicing my coding skills 
 07 JUNE 2024 : TOPICS COVERED| Python OOPS      | 
                              |Github Branching  |
 
-08 JUNE 2024 : TOPICS COVERED| Inheritance      |
+08 JUNE 2024 : TOPICS COVERED| Inheritance py   |
                              |Exception Handling|
