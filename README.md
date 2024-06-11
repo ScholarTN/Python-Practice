@@ -15,3 +15,5 @@ In this project l will be learning and consistently practicing my coding skills 
                              | TUPLE            |
                              | DICTIONARY       |
                              
+11 JUNE 2024 : TOPICS COVERED| TKINTER          |
+                          
