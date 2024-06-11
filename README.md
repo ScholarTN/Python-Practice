@@ -9,3 +9,9 @@ In this project l will be learning and consistently practicing my coding skills 
 
 08 JUNE 2024 : TOPICS COVERED| Inheritance py   |
                              |Exception Handling|
+                             
+10 JUNE 2024 : TOPICS COVERED| LIST             |
+                             | SETS             | 
+                             | TUPLE            |
+                             | DICTIONARY       |
+                             
