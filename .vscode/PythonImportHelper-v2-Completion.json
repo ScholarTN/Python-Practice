@@ -1,0 +1,1644 @@
+[
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "x = 5\n# Print the value of the variable\nprint(x)  # Output: 5\n#How to Declare variables of different data types\nx = 5  # Integer\ny = 3.14  # Float\nz = \"hello\"  # String\nis_admin = True  # Boolean\nfruits = [\"apple\", \"banana\", \"cherry\"]  # List\ncolors = (\"red\", \"green\", \"blue\")  # Tuple",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "x = 5  # Integer\ny = 3.14  # Float\nz = \"hello\"  # String\nis_admin = True  # Boolean\nfruits = [\"apple\", \"banana\", \"cherry\"]  # List\ncolors = (\"red\", \"green\", \"blue\")  # Tuple\nperson = {\"name\": \"Scholar\", \"age\": 20}  # Dictionary\n# How to Print the values of the variables\nprint(x)  # Output: 5\nprint(y)  # Output: 3.14",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "y = 3.14  # Float\nz = \"hello\"  # String\nis_admin = True  # Boolean\nfruits = [\"apple\", \"banana\", \"cherry\"]  # List\ncolors = (\"red\", \"green\", \"blue\")  # Tuple\nperson = {\"name\": \"Scholar\", \"age\": 20}  # Dictionary\n# How to Print the values of the variables\nprint(x)  # Output: 5\nprint(y)  # Output: 3.14\nprint(z)  # Output: hello",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "z",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "z = \"hello\"  # String\nis_admin = True  # Boolean\nfruits = [\"apple\", \"banana\", \"cherry\"]  # List\ncolors = (\"red\", \"green\", \"blue\")  # Tuple\nperson = {\"name\": \"Scholar\", \"age\": 20}  # Dictionary\n# How to Print the values of the variables\nprint(x)  # Output: 5\nprint(y)  # Output: 3.14\nprint(z)  # Output: hello\nprint(is_admin)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "is_admin",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "is_admin = True  # Boolean\nfruits = [\"apple\", \"banana\", \"cherry\"]  # List\ncolors = (\"red\", \"green\", \"blue\")  # Tuple\nperson = {\"name\": \"Scholar\", \"age\": 20}  # Dictionary\n# How to Print the values of the variables\nprint(x)  # Output: 5\nprint(y)  # Output: 3.14\nprint(z)  # Output: hello\nprint(is_admin)  # Output: True\nprint(fruits)  # Output: ['apple', 'banana', 'cherry']",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "fruits = [\"apple\", \"banana\", \"cherry\"]  # List\ncolors = (\"red\", \"green\", \"blue\")  # Tuple\nperson = {\"name\": \"Scholar\", \"age\": 20}  # Dictionary\n# How to Print the values of the variables\nprint(x)  # Output: 5\nprint(y)  # Output: 3.14\nprint(z)  # Output: hello\nprint(is_admin)  # Output: True\nprint(fruits)  # Output: ['apple', 'banana', 'cherry']\nprint(colors)  # Output: ('red', 'green', 'blue')",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "colors = (\"red\", \"green\", \"blue\")  # Tuple\nperson = {\"name\": \"Scholar\", \"age\": 20}  # Dictionary\n# How to Print the values of the variables\nprint(x)  # Output: 5\nprint(y)  # Output: 3.14\nprint(z)  # Output: hello\nprint(is_admin)  # Output: True\nprint(fruits)  # Output: ['apple', 'banana', 'cherry']\nprint(colors)  # Output: ('red', 'green', 'blue')\nprint(person)  # Output: {'name': 'Scholar', 'age': 20}",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "person = {\"name\": \"Scholar\", \"age\": 20}  # Dictionary\n# How to Print the values of the variables\nprint(x)  # Output: 5\nprint(y)  # Output: 3.14\nprint(z)  # Output: hello\nprint(is_admin)  # Output: True\nprint(fruits)  # Output: ['apple', 'banana', 'cherry']\nprint(colors)  # Output: ('red', 'green', 'blue')\nprint(person)  # Output: {'name': 'Scholar', 'age': 20}\n# Arithmetic Operations",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "a = 5\nb = 3\nprint(a + b)  # Output: 8\nprint(a - b)  # Output: 2\nprint(a * b)  # Output: 15\nprint(a / b)  # Output: 1.6666666666666667\nprint(a % b)  # Output: 2\nprint(a ** b)  # Output: 125\n# Comparison Operations\na = 5",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "b = 3\nprint(a + b)  # Output: 8\nprint(a - b)  # Output: 2\nprint(a * b)  # Output: 15\nprint(a / b)  # Output: 1.6666666666666667\nprint(a % b)  # Output: 2\nprint(a ** b)  # Output: 125\n# Comparison Operations\na = 5\nb = 3",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "a = 5\nb = 3\nprint(a == b)  # Output: False\nprint(a != b)  # Output: True\nprint(a > b)  # Output: True\nprint(a < b)  # Output: False\nprint(a >= b)  # Output: True\nprint(a <= b)  # Output: False\n# Logical Operations\na = True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "b = 3\nprint(a == b)  # Output: False\nprint(a != b)  # Output: True\nprint(a > b)  # Output: True\nprint(a < b)  # Output: False\nprint(a >= b)  # Output: True\nprint(a <= b)  # Output: False\n# Logical Operations\na = True\nb = False",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "a = True\nb = False\nprint(a and b)  # Output: False\nprint(a or b)  # Output: True\nprint(not a)  # Output: False\n# If-Else Statement\nx = 5\nif x > 10:\n    print(\"x is greater than 10\")\nelse:",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "b = False\nprint(a and b)  # Output: False\nprint(a or b)  # Output: True\nprint(not a)  # Output: False\n# If-Else Statement\nx = 5\nif x > 10:\n    print(\"x is greater than 10\")\nelse:\n    print(\"x is less than or equal to 10\")",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "x = 5\nif x > 10:\n    print(\"x is greater than 10\")\nelse:\n    print(\"x is less than or equal to 10\")\n# For Loop\nfruits = [\"apple\", \"banana\", \"cherry\"]\nfor fruit in fruits:\n    print(fruit)\n# While Loop",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "fruits = [\"apple\", \"banana\", \"cherry\"]\nfor fruit in fruits:\n    print(fruit)\n# While Loop\ni = 0\nwhile i < 5:\n    print(i)\n    i += 1\n\"\"\"-->MORE PRACTICE QUESTIONS<--\"\"\"\n#Variables and Data Types",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "i",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "i = 0\nwhile i < 5:\n    print(i)\n    i += 1\n\"\"\"-->MORE PRACTICE QUESTIONS<--\"\"\"\n#Variables and Data Types\n\"\"\"\n1)Declare a variable named age and assign it the value 20. Print the value of age.\n2)Create a variable named name and assign it the string value \"Scholar TN\". \n   Print the value of name.",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "age = 20\nprint(age)  # Output: 20\n#2\nname = \"Scholar TN\"\nprint(name)  # Output: Scholar TN\n#3\nis_student = True\nprint(is_student)  # Output: True\n#4\ngadgets= [\"laptop\", \"phone\", \"earbuds\"]",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "name = \"Scholar TN\"\nprint(name)  # Output: Scholar TN\n#3\nis_student = True\nprint(is_student)  # Output: True\n#4\ngadgets= [\"laptop\", \"phone\", \"earbuds\"]\nprint(fruits)  # Output: ['laptop', 'phone', 'earbuds']\n#5\ncolors = (\"black\", \"blue\", \"red\")",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "is_student",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "is_student = True\nprint(is_student)  # Output: True\n#4\ngadgets= [\"laptop\", \"phone\", \"earbuds\"]\nprint(fruits)  # Output: ['laptop', 'phone', 'earbuds']\n#5\ncolors = (\"black\", \"blue\", \"red\")\nprint(colors)  # Output: ('black', 'blue', 'red')\n#6\nperson = {\"name\": \"Scholar\", \"age\": 20, \"city\": \"Bulawayo\"}",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "colors = (\"black\", \"blue\", \"red\")\nprint(colors)  # Output: ('black', 'blue', 'red')\n#6\nperson = {\"name\": \"Scholar\", \"age\": 20, \"city\": \"Bulawayo\"}\nprint(person)  # Output: {'name': 'Scholar', 'age': 20, 'city': 'Bulawayo'}\n\"\"\"Operators\"\"\"\n#1 Write an expression to calculate the sum of two numbers a = 10 and b = 5. Print the result.\na = 10\nb = 5\nprint(a + b)  # Output: 15",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "person = {\"name\": \"Scholar\", \"age\": 20, \"city\": \"Bulawayo\"}\nprint(person)  # Output: {'name': 'Scholar', 'age': 20, 'city': 'Bulawayo'}\n\"\"\"Operators\"\"\"\n#1 Write an expression to calculate the sum of two numbers a = 10 and b = 5. Print the result.\na = 10\nb = 5\nprint(a + b)  # Output: 15\n#2 Write an expression to calculate the product of two numbers x = 3 and y = 7. Print the result.\nx = 3\ny = 7",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "a = 10\nb = 5\nprint(a + b)  # Output: 15\n#2 Write an expression to calculate the product of two numbers x = 3 and y = 7. Print the result.\nx = 3\ny = 7\nprint(x * y)  # Output: 21\n#3 Write an expression to check if a = 7 is greater than b = 12. Print the result.\na = 7\nb = 12",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "b = 5\nprint(a + b)  # Output: 15\n#2 Write an expression to calculate the product of two numbers x = 3 and y = 7. Print the result.\nx = 3\ny = 7\nprint(x * y)  # Output: 21\n#3 Write an expression to check if a = 7 is greater than b = 12. Print the result.\na = 7\nb = 12\nprint(a > b)  # Output: False",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "x = 3\ny = 7\nprint(x * y)  # Output: 21\n#3 Write an expression to check if a = 7 is greater than b = 12. Print the result.\na = 7\nb = 12\nprint(a > b)  # Output: False\n#4 Write an expression to check if x = 4 is not equal to y = 4. Print the result.\nx = 4\ny = 4",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "y = 7\nprint(x * y)  # Output: 21\n#3 Write an expression to check if a = 7 is greater than b = 12. Print the result.\na = 7\nb = 12\nprint(a > b)  # Output: False\n#4 Write an expression to check if x = 4 is not equal to y = 4. Print the result.\nx = 4\ny = 4\nprint(x != y)  # Output: False",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "a = 7\nb = 12\nprint(a > b)  # Output: False\n#4 Write an expression to check if x = 4 is not equal to y = 4. Print the result.\nx = 4\ny = 4\nprint(x != y)  # Output: False\n#5 Write an expression to check if a = 8 is less than or equal to b = 8. Print the result.\na = 8\nb = 8",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "b = 12\nprint(a > b)  # Output: False\n#4 Write an expression to check if x = 4 is not equal to y = 4. Print the result.\nx = 4\ny = 4\nprint(x != y)  # Output: False\n#5 Write an expression to check if a = 8 is less than or equal to b = 8. Print the result.\na = 8\nb = 8\nprint(a <= b)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "x = 4\ny = 4\nprint(x != y)  # Output: False\n#5 Write an expression to check if a = 8 is less than or equal to b = 8. Print the result.\na = 8\nb = 8\nprint(a <= b)  # Output: True\n#6 Write an expression to check if (x = 2) and (y = 3) are both True. Print the result.\nx = 2\ny = 3",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "y = 4\nprint(x != y)  # Output: False\n#5 Write an expression to check if a = 8 is less than or equal to b = 8. Print the result.\na = 8\nb = 8\nprint(a <= b)  # Output: True\n#6 Write an expression to check if (x = 2) and (y = 3) are both True. Print the result.\nx = 2\ny = 3\nprint(x == 2 and y == 3)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "a = 8\nb = 8\nprint(a <= b)  # Output: True\n#6 Write an expression to check if (x = 2) and (y = 3) are both True. Print the result.\nx = 2\ny = 3\nprint(x == 2 and y == 3)  # Output: True\n#7 Write an expression to check if (a = 5) or (b = 5) is True. Print the result.\na = 5\nb = 5",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "b = 8\nprint(a <= b)  # Output: True\n#6 Write an expression to check if (x = 2) and (y = 3) are both True. Print the result.\nx = 2\ny = 3\nprint(x == 2 and y == 3)  # Output: True\n#7 Write an expression to check if (a = 5) or (b = 5) is True. Print the result.\na = 5\nb = 5\nprint(a == 5 or b == 5)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "x = 2\ny = 3\nprint(x == 2 and y == 3)  # Output: True\n#7 Write an expression to check if (a = 5) or (b = 5) is True. Print the result.\na = 5\nb = 5\nprint(a == 5 or b == 5)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "y = 3\nprint(x == 2 and y == 3)  # Output: True\n#7 Write an expression to check if (a = 5) or (b = 5) is True. Print the result.\na = 5\nb = 5\nprint(a == 5 or b == 5)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "a = 5\nb = 5\nprint(a == 5 or b == 5)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Basics",
+        "description": "06-06-2024.Python Basics",
+        "peekOfCode": "b = 5\nprint(a == 5 or b == 5)  # Output: True",
+        "detail": "06-06-2024.Python Basics",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def greet(name = \"World\"):\n    print(f\"Hello, {name}!\")\ngreet()  # Output: Hello, World!\ngreet(\"SCHOLAR\")  # Output: Hello, SCHOLAR!\n\"\"\"2. Define a function `add_numbers` that takes two numbers as arguments and returns their sum.\n      The function should have default arguments for both numbers, so that if no numbers are\n       provided, it defaults to `0`.\"\"\"\ndef add_numbers(a = 0, b = 0):\n    return a + b\nprint(add_numbers())  # Output: 0",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "add_numbers",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def add_numbers(a = 0, b = 0):\n    return a + b\nprint(add_numbers())  # Output: 0\nprint(add_numbers(2, 3))  # Output: 5\n### Functions with Variable Number of Arguments\n\"\"\"1. Define a function `print_numbers` that takes a variable number of arguments and \n      prints each number.\"\"\"\ndef print_numbers(*args):\n    for num in args:\n        print(num)",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "print_numbers",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def print_numbers(*args):\n    for num in args:\n        print(num)\nprint_numbers(1, 2, 3, 4, 5)  # Output: 1, 2, 3, 4, 5\n\"\"\"2. Define a function `average` that takes a variable number of arguments \n      and returns their average.\"\"\"\ndef average(*args):\n    return sum(args) / len(args)\nprint(average(1, 2, 3, 4, 5))  # Output: 3.0\n### Functions with Keyword Arguments",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "average",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def average(*args):\n    return sum(args) / len(args)\nprint(average(1, 2, 3, 4, 5))  # Output: 3.0\n### Functions with Keyword Arguments\n\"\"\"1. Define a function `greet` that takes a name and a greeting message as keyword arguments.\n   The function should print the greeting message with the provided name.\"\"\"\ndef greet(name, message = \"Hello\"):\n    print(f\"{message}, {name}!\")\ngreet(\"Thubalami\", \"Hi\")  # Output: Hi, Thubalami!\ngreet(\"Nkomazana\", message = \"Goodbye\")  # Output: Goodbye, Nkomazana!",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "greet",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def greet(name, message = \"Hello\"):\n    print(f\"{message}, {name}!\")\ngreet(\"Thubalami\", \"Hi\")  # Output: Hi, Thubalami!\ngreet(\"Nkomazana\", message = \"Goodbye\")  # Output: Goodbye, Nkomazana!\n\"\"\"2. Define a function `calculate_area` that takes the length \n      and width of a rectangle as keyword arguments and returns their product.\"\"\"\ndef calculate_area(length, width, unit = \"square meters\"):\n    return length * width\nprint(calculate_area(length = 2, width = 3))  # Output: 6\nprint(calculate_area(length = 4, width = 5, unit = \"square feet\"))  # Output: 20",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_area",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def calculate_area(length, width, unit = \"square meters\"):\n    return length * width\nprint(calculate_area(length = 2, width = 3))  # Output: 6\nprint(calculate_area(length = 4, width = 5, unit = \"square feet\"))  # Output: 20\n### Functions with Return Values\n\"\"\"1. Define a function `add_numbers` that takes two numbers as arguments and returns their sum.\"\"\"\ndef add_numbers(a, b):\n    return a + b\nresult = add_numbers(2, 3)\nprint(result)  # Output: 5",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "add_numbers",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def add_numbers(a, b):\n    return a + b\nresult = add_numbers(2, 3)\nprint(result)  # Output: 5\n\"\"\"2. Define a function `get_max` that takes a list of numbers as an argument \n       and returns the maximum number.\"\"\"\ndef get_max(numbers):\n    return max(numbers)\nnumbers = [1, 2, 3, 4, 5]\nprint(get_max(numbers))  # Output: 5",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "get_max",
+        "kind": 2,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "def get_max(numbers):\n    return max(numbers)\nnumbers = [1, 2, 3, 4, 5]\nprint(get_max(numbers))  # Output: 5\n### Functions with Lambda Functions\n\"\"\"1. Define a function `double_numbers` that takes a list of numbers as an argument \n      and returns a new list with each number doubled.\"\"\"\ndouble_numbers = lambda numbers: [num * 2 for num in numbers]\nnumbers = [1, 2, 3, 4, 5]\nprint(double_numbers(numbers))  # Output: [2, 4, 6, 8, 10]",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "print(calculate_area(length",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "print(calculate_area(length = 2, width = 3))  # Output: 6\nprint(calculate_area(length = 4, width = 5, unit = \"square feet\"))  # Output: 20\n### Functions with Return Values\n\"\"\"1. Define a function `add_numbers` that takes two numbers as arguments and returns their sum.\"\"\"\ndef add_numbers(a, b):\n    return a + b\nresult = add_numbers(2, 3)\nprint(result)  # Output: 5\n\"\"\"2. Define a function `get_max` that takes a list of numbers as an argument \n       and returns the maximum number.\"\"\"",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "print(calculate_area(length",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "print(calculate_area(length = 4, width = 5, unit = \"square feet\"))  # Output: 20\n### Functions with Return Values\n\"\"\"1. Define a function `add_numbers` that takes two numbers as arguments and returns their sum.\"\"\"\ndef add_numbers(a, b):\n    return a + b\nresult = add_numbers(2, 3)\nprint(result)  # Output: 5\n\"\"\"2. Define a function `get_max` that takes a list of numbers as an argument \n       and returns the maximum number.\"\"\"\ndef get_max(numbers):",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "result = add_numbers(2, 3)\nprint(result)  # Output: 5\n\"\"\"2. Define a function `get_max` that takes a list of numbers as an argument \n       and returns the maximum number.\"\"\"\ndef get_max(numbers):\n    return max(numbers)\nnumbers = [1, 2, 3, 4, 5]\nprint(get_max(numbers))  # Output: 5\n### Functions with Lambda Functions\n\"\"\"1. Define a function `double_numbers` that takes a list of numbers as an argument ",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\nprint(get_max(numbers))  # Output: 5\n### Functions with Lambda Functions\n\"\"\"1. Define a function `double_numbers` that takes a list of numbers as an argument \n      and returns a new list with each number doubled.\"\"\"\ndouble_numbers = lambda numbers: [num * 2 for num in numbers]\nnumbers = [1, 2, 3, 4, 5]\nprint(double_numbers(numbers))  # Output: [2, 4, 6, 8, 10]\n\"\"\"2. Define a function `filter_even_numbers` that takes a list of numbers as an argument\n      and returns a new list with only the even numbers.\"\"\"",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "double_numbers",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "double_numbers = lambda numbers: [num * 2 for num in numbers]\nnumbers = [1, 2, 3, 4, 5]\nprint(double_numbers(numbers))  # Output: [2, 4, 6, 8, 10]\n\"\"\"2. Define a function `filter_even_numbers` that takes a list of numbers as an argument\n      and returns a new list with only the even numbers.\"\"\"\nfilter_even_numbers = lambda numbers: [num for num in numbers if num % 2 == 0]\nnumbers = [1, 2, 3, 4, 5]\nprint(filter_even_numbers(numbers))  # Output: [2, 4]",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\nprint(double_numbers(numbers))  # Output: [2, 4, 6, 8, 10]\n\"\"\"2. Define a function `filter_even_numbers` that takes a list of numbers as an argument\n      and returns a new list with only the even numbers.\"\"\"\nfilter_even_numbers = lambda numbers: [num for num in numbers if num % 2 == 0]\nnumbers = [1, 2, 3, 4, 5]\nprint(filter_even_numbers(numbers))  # Output: [2, 4]",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "filter_even_numbers",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "filter_even_numbers = lambda numbers: [num for num in numbers if num % 2 == 0]\nnumbers = [1, 2, 3, 4, 5]\nprint(filter_even_numbers(numbers))  # Output: [2, 4]",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "06-06-2024.Python Functions",
+        "description": "06-06-2024.Python Functions",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\nprint(filter_even_numbers(numbers))  # Output: [2, 4]",
+        "detail": "06-06-2024.Python Functions",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Car:\n    def __init__(self, color, model):\n        self.color = color\n        self.model = model\n    def start(self):\n        print(f\"Starting the {self.color} {self.model}.\")\n# Create objects\nmy_car1 = Car(\"Red\", \"Toyota\")\nmy_car2 = Car(\"Blue\", \"Honda\")\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Car:\n    def __init__(self, color, model):\n        self.color = color\n        self.model = model\n    def __del__(self):\n        print(f\"Destroying {self.color} {self.model}.\")\n# Create objects\nmy_car1 = Car(\"Red\", \"Toyota\")\nmy_car2 = Car(\"Blue\", \"Honda\")\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Vehicle",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Vehicle:\n    def __init__(self, color):\n        self.color = color\n    def start(self):\n        print(f\"Starting the {self.color} vehicle.\")\nclass Car(Vehicle):\n    def __init__(self, color, model):\n        super().__init__(color)\n        self.model = model\n    def start(self):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Car(Vehicle):\n    def __init__(self, color, model):\n        super().__init__(color)\n        self.model = model\n    def start(self):\n        print(f\"Starting the {self.color} {self.model}.\")\n# Create objects\nmy_car = Car(\"Red\", \"Toyota\")\n# Use methods\nmy_car.start()  # Output: Starting the Red Toyota.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Shape",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Shape:\n    def area(self):\n        pass\nclass Circle(Shape):\n    def __init__(self, radius):\n        self.radius = radius\n    def area(self):\n        return 3.14 * self.radius ** 2\nclass Rectangle(Shape):\n    def __init__(self, width, height):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Circle",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Circle(Shape):\n    def __init__(self, radius):\n        self.radius = radius\n    def area(self):\n        return 3.14 * self.radius ** 2\nclass Rectangle(Shape):\n    def __init__(self, width, height):\n        self.width = width\n        self.height = height\n    def area(self):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Rectangle",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Rectangle(Shape):\n    def __init__(self, width, height):\n        self.width = width\n        self.height = height\n    def area(self):\n        return self.width * self.height\n# Create objects\ncircle = Circle(5)\nrectangle = Rectangle(4, 6)\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "BankAccount",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class BankAccount:\n    def __init__(self, balance=0):\n        self.__balance = balance\n    def deposit(self, amount):\n        self.__balance += amount\n    def get_balance(self):\n        return self.__balance\n# Create objects\naccount = BankAccount(1000)\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "BankAccount",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class BankAccount:\n    def __init__(self, balance=0):\n        self.__balance = balance\n    def deposit(self, amount):\n        self.__balance += amount\n    def get_balance(self):\n        return self.__balance\n# Create objects\naccount = BankAccount(1000)\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Address",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Address:\n    def __init__(self, street, city, state, zip):\n        self.street = street\n        self.city = city\n        self.state = state\n        self.zip = zip\nclass Person:\n    def __init__(self, name, address):\n        self.name = name\n        self.address = address",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Person",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Person:\n    def __init__(self, name, address):\n        self.name = name\n        self.address = address\n# Create objects\naddress = Address(\"Bulawayo\", \"CA\", \"12345\")\nperson = Person(\"Scholar TN\", address)\n# Use methods\nprint(person.name)  # Output: Scholar TN\nprint(person.address.street)  # Bulawayo CA 12345",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Vector",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Vector:\n    def __init__(self, x, y):\n        self.x = x\n        self.y = y\n    def __add__(self, other):\n        return Vector(self.x + other.x, self.y + other.y)\n    def __str__(self):\n        return f\"({self.x}, {self.y})\"\n# Create objects\nvector1 = Vector(1, 2)",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Shape",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Shape(ABC):\n    @abstractmethod\n    def area(self):\n        pass\nclass Circle(Shape):\n    def __init__(self, radius):\n        self.radius = radius\n    def area(self):\n        return 3.14 * self.radius ** 2\n# Create objects",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Circle",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Circle(Shape):\n    def __init__(self, radius):\n        self.radius = radius\n    def area(self):\n        return 3.14 * self.radius ** 2\n# Create objects\ncircle = Circle(5)\n# Use methods\nprint(circle.area())  # Output: 78.5\n### 10. Interfaces",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Printable",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Printable(ABC):\n    @abstractmethod\n    def print(self):\n        pass\nclass Document(Printable):\n    def print(self):\n        print(\"Printing a document.\")\nclass Image(Printable):\n    def print(self):\n        print(\"Printing an image.\")",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Document(Printable):\n    def print(self):\n        print(\"Printing a document.\")\nclass Image(Printable):\n    def print(self):\n        print(\"Printing an image.\")\n# Create objects\ndocument = Document()\nimage = Image()\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Image(Printable):\n    def print(self):\n        print(\"Printing an image.\")\n# Create objects\ndocument = Document()\nimage = Image()\n# Use methods\ndocument.print()  # Output: Printing a document.\nimage.print()  # Output: Printing an image.\n### 11. Singleton",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Singleton",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Singleton:\n    _instance = None\n    def __new__(cls):\n        if cls._instance is None:\n            cls._instance = super(Singleton, cls).__new__(cls)\n        return cls._instance\n    def __init__(self):\n        if not hasattr(self, 'initialized'):\n            self.initialized = True\n            print(\"Singleton initialized.\")",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "VehicleFactory",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class VehicleFactory:\n    def create_vehicle(self, type):\n        if type == \"car\":\n            return Car()\n        elif type == \"truck\":\n            return Truck()\n        else:\n            raise ValueError(\"Invalid vehicle type.\")\nclass Car:\n    def __init__(self):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Car",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Car:\n    def __init__(self):\n        print(\"Creating a car.\")\nclass Truck:\n    def __init__(self):\n        print(\"Creating a truck.\")\n# Create objects\nfactory = VehicleFactory()\ncar = factory.create_vehicle(\"car\")\ntruck = factory.create_vehicle(\"truck\")",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Truck",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Truck:\n    def __init__(self):\n        print(\"Creating a truck.\")\n# Create objects\nfactory = VehicleFactory()\ncar = factory.create_vehicle(\"car\")\ntruck = factory.create_vehicle(\"truck\")\n# Use methods\ncar  # Output: Creating a car.\ntruck  # Output: Creating a truck.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Subject",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Subject:\n    def __init__(self):\n        self.observers = []\n    def attach(self, observer):\n        self.observers.append(observer)\n    def detach(self, observer):\n        self.observers.remove(observer)\n    def notify(self):\n        for observer in self.observers:\n            observer.update()",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Observer",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Observer:\n    def update(self):\n        pass\nclass ConcreteObserver(Observer):\n    def update(self):\n        print(\"Observer updated.\")\n# Create objects\nsubject = Subject()\nobserver = ConcreteObserver()\n# Attach observer",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteObserver",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteObserver(Observer):\n    def update(self):\n        print(\"Observer updated.\")\n# Create objects\nsubject = Subject()\nobserver = ConcreteObserver()\n# Attach observer\nsubject.attach(observer)\n# Notify observer\nsubject.notify()  # Output: Observer updated.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Coffee",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Coffee:\n    def cost(self):\n        return 1.00\n    def ingredients(self):\n        return \"Coffee\"\nclass Milk(Coffee):\n    def cost(self):\n        return super().cost() + 0.50\n    def ingredients(self):\n        return super().ingredients() + \", Milk\"",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Milk",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Milk(Coffee):\n    def cost(self):\n        return super().cost() + 0.50\n    def ingredients(self):\n        return super().ingredients() + \", Milk\"\nclass Sugar(Coffee):\n    def cost(self):\n        return super().cost() + 0.25\n    def ingredients(self):\n        return super().ingredients() + \", Sugar\"",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Sugar",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Sugar(Coffee):\n    def cost(self):\n        return super().cost() + 0.25\n    def ingredients(self):\n        return super().ingredients() + \", Sugar\"\n# Create objects\ncoffee = Coffee()\nmilk = Milk()\nsugar = Sugar()\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Command:\n    def execute(self):\n        pass\nclass ConcreteCommand(Command):\n    def __init__(self, receiver, action):\n        self.receiver = receiver\n        self.action = action\n    def execute(self):\n        self.receiver.action()\nclass Receiver:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteCommand",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteCommand(Command):\n    def __init__(self, receiver, action):\n        self.receiver = receiver\n        self.action = action\n    def execute(self):\n        self.receiver.action()\nclass Receiver:\n    def action(self):\n        print(\"Action performed.\")\n# Create objects",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Receiver",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Receiver:\n    def action(self):\n        print(\"Action performed.\")\n# Create objects\nreceiver = Receiver()\ncommand = ConcreteCommand(receiver, receiver.action)\n# Use methods\ncommand.execute()  # Output: Action performed.\n### 16. Iterator\n#### Definition:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Iterator:\n    def __init__(self, collection):\n        self.collection = collection\n        self.index = 0\n    def has_next(self):\n        return self.index < len(self.collection)\n    def next(self):\n        result = self.collection[self.index]\n        self.index += 1\n        return result",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Collection",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Collection:\n    def __init__(self, items):\n        self.items = items\n    def __iter__(self):\n        return Iterator(self.items)\n# Create objects\ncollection = Collection([1, 2, 3, 4, 5])\n# Use methods\nfor item in collection:\n    print(item)  # Output: 1, 2, 3, 4, 5",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class State:\n    def handle(self):\n        pass\nclass ConcreteStateA(State):\n    def handle(self):\n        print(\"Handling state A.\")\nclass ConcreteStateB(State):\n    def handle(self):\n        print(\"Handling state B.\")\nclass Context:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteStateA",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteStateA(State):\n    def handle(self):\n        print(\"Handling state A.\")\nclass ConcreteStateB(State):\n    def handle(self):\n        print(\"Handling state B.\")\nclass Context:\n    def __init__(self):\n        self.state = ConcreteStateA()\n    def change_state(self, state):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteStateB",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteStateB(State):\n    def handle(self):\n        print(\"Handling state B.\")\nclass Context:\n    def __init__(self):\n        self.state = ConcreteStateA()\n    def change_state(self, state):\n        self.state = state\n    def handle(self):\n        self.state.handle()",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Context",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Context:\n    def __init__(self):\n        self.state = ConcreteStateA()\n    def change_state(self, state):\n        self.state = state\n    def handle(self):\n        self.state.handle()\n# Create objects\ncontext = Context()\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Strategy",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Strategy:\n    def execute(self):\n        pass\nclass ConcreteStrategyA(Strategy):\n    def execute(self):\n        print(\"Executing strategy A.\")\nclass ConcreteStrategyB(Strategy):\n    def execute(self):\n        print(\"Executing strategy B.\")\nclass Context:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteStrategyA",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteStrategyA(Strategy):\n    def execute(self):\n        print(\"Executing strategy A.\")\nclass ConcreteStrategyB(Strategy):\n    def execute(self):\n        print(\"Executing strategy B.\")\nclass Context:\n    def __init__(self, strategy):\n        self.strategy = strategy\n    def execute(self):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteStrategyB",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteStrategyB(Strategy):\n    def execute(self):\n        print(\"Executing strategy B.\")\nclass Context:\n    def __init__(self, strategy):\n        self.strategy = strategy\n    def execute(self):\n        self.strategy.execute()\n# Create objects\nstrategy_a = ConcreteStrategyA()",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Context",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Context:\n    def __init__(self, strategy):\n        self.strategy = strategy\n    def execute(self):\n        self.strategy.execute()\n# Create objects\nstrategy_a = ConcreteStrategyA()\nstrategy_b = ConcreteStrategyB()\ncontext = Context(strategy_a)\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateMethod",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class TemplateMethod:\n    def template_method(self):\n        self.step1()\n        self.step2()\n    def step1(self):\n        pass\n    def step2(self):\n        pass\nclass ConcreteTemplateMethodA(TemplateMethod):\n    def step1(self):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteTemplateMethodA",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteTemplateMethodA(TemplateMethod):\n    def step1(self):\n        print(\"Step 1 A.\")\n    def step2(self):\n        print(\"Step 2 A.\")\nclass ConcreteTemplateMethodB(TemplateMethod):\n    def step1(self):\n        print(\"Step 1 B.\")\n    def step2(self):\n        print(\"Step 2 B.\")",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteTemplateMethodB",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteTemplateMethodB(TemplateMethod):\n    def step1(self):\n        print(\"Step 1 B.\")\n    def step2(self):\n        print(\"Step 2 B.\")\n# Create objects\ntemplate_method_a = ConcreteTemplateMethodA()\ntemplate_method_b = ConcreteTemplateMethodB()\n# Use methods\ntemplate_method_a.template_method()  # Output: Step 1 A., Step 2 A.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Visitor",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Visitor:\n    def visit(self, element):\n        pass\nclass ConcreteVisitor(Visitor):\n    def visit(self, element):\n        print(f\"Visiting {element}.\")\nclass Element:\n    def accept(self, visitor):\n        visitor.visit(self)\nclass ConcreteElement(Element):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteVisitor",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteVisitor(Visitor):\n    def visit(self, element):\n        print(f\"Visiting {element}.\")\nclass Element:\n    def accept(self, visitor):\n        visitor.visit(self)\nclass ConcreteElement(Element):\n    def accept(self, visitor):\n        visitor.visit(self)\n# Create objects",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "Element",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class Element:\n    def accept(self, visitor):\n        visitor.visit(self)\nclass ConcreteElement(Element):\n    def accept(self, visitor):\n        visitor.visit(self)\n# Create objects\nelement = ConcreteElement()\nvisitor = ConcreteVisitor()\n# Use methods",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "ConcreteElement",
+        "kind": 6,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "class ConcreteElement(Element):\n    def accept(self, visitor):\n        visitor.visit(self)\n# Create objects\nelement = ConcreteElement()\nvisitor = ConcreteVisitor()\n# Use methods\nelement.accept(visitor)  # Output: Visiting ConcreteElement.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "my_car1",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "my_car1 = Car(\"Red\", \"Toyota\")\nmy_car2 = Car(\"Blue\", \"Honda\")\n# Use methods\nmy_car1.start()  # Output: Starting the Red Toyota.\nmy_car2.start()  # Output: Starting the Blue Honda.\n### 2. Constructors and Destructors\n#### Definition:\n#- **Constructor**: A special method that is automatically called when an object is created.\n#- **Destructor**: A special method that is automatically called when an object is destroyed.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "my_car2",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "my_car2 = Car(\"Blue\", \"Honda\")\n# Use methods\nmy_car1.start()  # Output: Starting the Red Toyota.\nmy_car2.start()  # Output: Starting the Blue Honda.\n### 2. Constructors and Destructors\n#### Definition:\n#- **Constructor**: A special method that is automatically called when an object is created.\n#- **Destructor**: A special method that is automatically called when an object is destroyed.\n#### Example:\nclass Car:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "my_car1",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "my_car1 = Car(\"Red\", \"Toyota\")\nmy_car2 = Car(\"Blue\", \"Honda\")\n# Use methods\nmy_car1.start()  # Output: Starting the Red Toyota.\nmy_car2.start()  # Output: Starting the Blue Honda.\n# Destroy objects\ndel my_car1\ndel my_car2\n### 3. Inheritance\n#### Definition:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "my_car2",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "my_car2 = Car(\"Blue\", \"Honda\")\n# Use methods\nmy_car1.start()  # Output: Starting the Red Toyota.\nmy_car2.start()  # Output: Starting the Blue Honda.\n# Destroy objects\ndel my_car1\ndel my_car2\n### 3. Inheritance\n#### Definition:\n#- **Inheritance**: A mechanism where a new class can inherit properties and behavior from an existing class.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "my_car",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "my_car = Car(\"Red\", \"Toyota\")\n# Use methods\nmy_car.start()  # Output: Starting the Red Toyota.\n### 4. Polymorphism\n#### Definition:\n#- **Polymorphism**: The ability of an object to take on multiple forms.\n#### Example:\nclass Shape:\n    def area(self):\n        pass",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "circle",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "circle = Circle(5)\nrectangle = Rectangle(4, 6)\n# Use methods\nprint(circle.area())  # Output: 78.5\nprint(rectangle.area())  # Output: 24\n### 5. Encapsulation\n#### Definition:\n#- **Encapsulation**: The concept of bundling data and methods that operate on that data within a single unit.\n#### Example:\nclass BankAccount:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "rectangle",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "rectangle = Rectangle(4, 6)\n# Use methods\nprint(circle.area())  # Output: 78.5\nprint(rectangle.area())  # Output: 24\n### 5. Encapsulation\n#### Definition:\n#- **Encapsulation**: The concept of bundling data and methods that operate on that data within a single unit.\n#### Example:\nclass BankAccount:\n    def __init__(self, balance=0):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "account",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "account = BankAccount(1000)\n# Use methods\naccount.deposit(500)\nprint(account.get_balance())  # Output: 1500\n### 6. Abstraction\n#### Definition:\n#- **Abstraction**: The concept of showing only essential features of an object and hiding its internal details.\n#### Example:\nclass BankAccount:\n    def __init__(self, balance=0):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "account",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "account = BankAccount(1000)\n# Use methods\naccount.deposit(500)\nprint(account.get_balance())  # Output: 1500\n### 7. Composition\n#### Definition:\n#- **Composition**: The concept of creating objects from other objects.\n#### Example:\nclass Address:\n    def __init__(self, street, city, state, zip):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "address",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "address = Address(\"Bulawayo\", \"CA\", \"12345\")\nperson = Person(\"Scholar TN\", address)\n# Use methods\nprint(person.name)  # Output: Scholar TN\nprint(person.address.street)  # Bulawayo CA 12345\n### 8. Operator Overloading\n#### Definition:\n#- **Operator Overloading**: The ability to redefine the behavior of operators for a class.\n#### Example:\nclass Vector:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "person = Person(\"Scholar TN\", address)\n# Use methods\nprint(person.name)  # Output: Scholar TN\nprint(person.address.street)  # Bulawayo CA 12345\n### 8. Operator Overloading\n#### Definition:\n#- **Operator Overloading**: The ability to redefine the behavior of operators for a class.\n#### Example:\nclass Vector:\n    def __init__(self, x, y):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "vector1",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "vector1 = Vector(1, 2)\nvector2 = Vector(3, 4)\n# Use methods\nresult = vector1 + vector2\nprint(result)  # Output: (4, 6)\n### 9. Abstract Classes\n#### Definition:\n#- **Abstract Class**: A class that cannot be instantiated and is intended to be inherited by other classes.\n#### Example:\nfrom abc import ABC, abstractmethod",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "vector2",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "vector2 = Vector(3, 4)\n# Use methods\nresult = vector1 + vector2\nprint(result)  # Output: (4, 6)\n### 9. Abstract Classes\n#### Definition:\n#- **Abstract Class**: A class that cannot be instantiated and is intended to be inherited by other classes.\n#### Example:\nfrom abc import ABC, abstractmethod\nclass Shape(ABC):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "result = vector1 + vector2\nprint(result)  # Output: (4, 6)\n### 9. Abstract Classes\n#### Definition:\n#- **Abstract Class**: A class that cannot be instantiated and is intended to be inherited by other classes.\n#### Example:\nfrom abc import ABC, abstractmethod\nclass Shape(ABC):\n    @abstractmethod\n    def area(self):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "circle",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "circle = Circle(5)\n# Use methods\nprint(circle.area())  # Output: 78.5\n### 10. Interfaces\n#### Definition:\n#- **Interface**: A contract that specifies a set of methods that must be implemented \n#     by any class that implements it.\n#### Example:\nfrom abc import ABC, abstractmethod\nclass Printable(ABC):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "document",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "document = Document()\nimage = Image()\n# Use methods\ndocument.print()  # Output: Printing a document.\nimage.print()  # Output: Printing an image.\n### 11. Singleton\n#### Definition:\n#- **Singleton**: A design pattern that ensures a class has only one instance and provides \n#     a global point of access to that instance.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "image = Image()\n# Use methods\ndocument.print()  # Output: Printing a document.\nimage.print()  # Output: Printing an image.\n### 11. Singleton\n#### Definition:\n#- **Singleton**: A design pattern that ensures a class has only one instance and provides \n#     a global point of access to that instance.\n#### Example:\nclass Singleton:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "singleton1",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "singleton1 = Singleton()\nsingleton2 = Singleton()\n# Use methods\nprint(singleton1 is singleton2)  # Output: True\n### 12. Factory Method\n#### Definition:\n#- **Factory Method**: A design pattern that provides a way to create objects without specifying the \n#    exact class of object that will be created.\n#### Example:\nclass VehicleFactory:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "singleton2",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "singleton2 = Singleton()\n# Use methods\nprint(singleton1 is singleton2)  # Output: True\n### 12. Factory Method\n#### Definition:\n#- **Factory Method**: A design pattern that provides a way to create objects without specifying the \n#    exact class of object that will be created.\n#### Example:\nclass VehicleFactory:\n    def create_vehicle(self, type):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "factory",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "factory = VehicleFactory()\ncar = factory.create_vehicle(\"car\")\ntruck = factory.create_vehicle(\"truck\")\n# Use methods\ncar  # Output: Creating a car.\ntruck  # Output: Creating a truck.\n### 13. Observer\n#### Definition:\n#- **Observer**: A design pattern that allows objects to be notified of changes to other objects \n#    without having a direct reference to them.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "car",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "car = factory.create_vehicle(\"car\")\ntruck = factory.create_vehicle(\"truck\")\n# Use methods\ncar  # Output: Creating a car.\ntruck  # Output: Creating a truck.\n### 13. Observer\n#### Definition:\n#- **Observer**: A design pattern that allows objects to be notified of changes to other objects \n#    without having a direct reference to them.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "truck",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "truck = factory.create_vehicle(\"truck\")\n# Use methods\ncar  # Output: Creating a car.\ntruck  # Output: Creating a truck.\n### 13. Observer\n#### Definition:\n#- **Observer**: A design pattern that allows objects to be notified of changes to other objects \n#    without having a direct reference to them.\n#### Example:\nclass Subject:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "subject",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "subject = Subject()\nobserver = ConcreteObserver()\n# Attach observer\nsubject.attach(observer)\n# Notify observer\nsubject.notify()  # Output: Observer updated.\n### 14. Decorator\n#### Definition:\n#- **Decorator**: A design pattern that allows behavior to be added to an object, either statically or \n#      dynamically, without affecting the object's external interface.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "observer",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "observer = ConcreteObserver()\n# Attach observer\nsubject.attach(observer)\n# Notify observer\nsubject.notify()  # Output: Observer updated.\n### 14. Decorator\n#### Definition:\n#- **Decorator**: A design pattern that allows behavior to be added to an object, either statically or \n#      dynamically, without affecting the object's external interface.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "coffee",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "coffee = Coffee()\nmilk = Milk()\nsugar = Sugar()\n# Use methods\nprint(coffee.cost())  # Output: 1.0\nprint(milk.ingredients())  # Output: Coffee, Milk\nprint(sugar.ingredients())  # Output: Coffee, Sugar\n### 15. Command\n#### Definition:\n#- **Command**: A design pattern that encapsulates a request as an object,",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "milk",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "milk = Milk()\nsugar = Sugar()\n# Use methods\nprint(coffee.cost())  # Output: 1.0\nprint(milk.ingredients())  # Output: Coffee, Milk\nprint(sugar.ingredients())  # Output: Coffee, Sugar\n### 15. Command\n#### Definition:\n#- **Command**: A design pattern that encapsulates a request as an object,\n#      thereby letting you parameterize clients with queues, logs, and so on.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "sugar",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "sugar = Sugar()\n# Use methods\nprint(coffee.cost())  # Output: 1.0\nprint(milk.ingredients())  # Output: Coffee, Milk\nprint(sugar.ingredients())  # Output: Coffee, Sugar\n### 15. Command\n#### Definition:\n#- **Command**: A design pattern that encapsulates a request as an object,\n#      thereby letting you parameterize clients with queues, logs, and so on.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "receiver = Receiver()\ncommand = ConcreteCommand(receiver, receiver.action)\n# Use methods\ncommand.execute()  # Output: Action performed.\n### 16. Iterator\n#### Definition:\n#- **Iterator**: A design pattern that allows you to traverse a collection of objects without exposing\n#         its underlying representation.\n#### Example:\nclass Iterator:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "command",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "command = ConcreteCommand(receiver, receiver.action)\n# Use methods\ncommand.execute()  # Output: Action performed.\n### 16. Iterator\n#### Definition:\n#- **Iterator**: A design pattern that allows you to traverse a collection of objects without exposing\n#         its underlying representation.\n#### Example:\nclass Iterator:\n    def __init__(self, collection):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "collection",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "collection = Collection([1, 2, 3, 4, 5])\n# Use methods\nfor item in collection:\n    print(item)  # Output: 1, 2, 3, 4, 5\n### 17. State\n#### Definition:\n#- **State**: A design pattern that allows an object to change its behavior when its internal state changes.\n#### Example:\nclass State:\n    def handle(self):",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "context = Context()\n# Use methods\ncontext.handle()  # Output: Handling state A.\ncontext.change_state(ConcreteStateB())\ncontext.handle()  # Output: Handling state B.\n### 18. Strategy\n#### Definition:\n#- **Strategy**: A design pattern that defines a family of algorithms, encapsulates each one,\n#       and makes them interchangeable.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "strategy_a",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "strategy_a = ConcreteStrategyA()\nstrategy_b = ConcreteStrategyB()\ncontext = Context(strategy_a)\n# Use methods\ncontext.execute()  # Output: Executing strategy A.\ncontext.strategy = strategy_b\ncontext.execute()  # Output: Executing strategy B.\n### 19. Template Method\n#### Definition:\n##- **Template Method**: A design pattern that defines the skeleton of an algorithm in the superclass",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "strategy_b",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "strategy_b = ConcreteStrategyB()\ncontext = Context(strategy_a)\n# Use methods\ncontext.execute()  # Output: Executing strategy A.\ncontext.strategy = strategy_b\ncontext.execute()  # Output: Executing strategy B.\n### 19. Template Method\n#### Definition:\n##- **Template Method**: A design pattern that defines the skeleton of an algorithm in the superclass\n#      but lets subclasses override specific steps of the algorithm without changing its structure.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "context = Context(strategy_a)\n# Use methods\ncontext.execute()  # Output: Executing strategy A.\ncontext.strategy = strategy_b\ncontext.execute()  # Output: Executing strategy B.\n### 19. Template Method\n#### Definition:\n##- **Template Method**: A design pattern that defines the skeleton of an algorithm in the superclass\n#      but lets subclasses override specific steps of the algorithm without changing its structure.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "context.strategy",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "context.strategy = strategy_b\ncontext.execute()  # Output: Executing strategy B.\n### 19. Template Method\n#### Definition:\n##- **Template Method**: A design pattern that defines the skeleton of an algorithm in the superclass\n#      but lets subclasses override specific steps of the algorithm without changing its structure.\n#### Example:\nclass TemplateMethod:\n    def template_method(self):\n        self.step1()",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "template_method_a",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "template_method_a = ConcreteTemplateMethodA()\ntemplate_method_b = ConcreteTemplateMethodB()\n# Use methods\ntemplate_method_a.template_method()  # Output: Step 1 A., Step 2 A.\ntemplate_method_b.template_method()  # Output: Step 1 B., Step 2 B.\n### 20. Visitor\n#### Definition:\n###- **Visitor**: A design pattern that allows you to perform operations on a collection of objects without \n#        modifying the classes of the objects themselves.\n#### Example:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "template_method_b",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "template_method_b = ConcreteTemplateMethodB()\n# Use methods\ntemplate_method_a.template_method()  # Output: Step 1 A., Step 2 A.\ntemplate_method_b.template_method()  # Output: Step 1 B., Step 2 B.\n### 20. Visitor\n#### Definition:\n###- **Visitor**: A design pattern that allows you to perform operations on a collection of objects without \n#        modifying the classes of the objects themselves.\n#### Example:\nclass Visitor:",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "element",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "element = ConcreteElement()\nvisitor = ConcreteVisitor()\n# Use methods\nelement.accept(visitor)  # Output: Visiting ConcreteElement.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "visitor",
+        "kind": 5,
+        "importPath": "07-06-2024.Python OOPS",
+        "description": "07-06-2024.Python OOPS",
+        "peekOfCode": "visitor = ConcreteVisitor()\n# Use methods\nelement.accept(visitor)  # Output: Visiting ConcreteElement.",
+        "detail": "07-06-2024.Python OOPS",
+        "documentation": {}
+    },
+    {
+        "label": "NegativeNumberError",
+        "kind": 6,
+        "importPath": "08-06-2024.Exception Handling",
+        "description": "08-06-2024.Exception Handling",
+        "peekOfCode": "class NegativeNumberError(Exception):\n    pass\ntry:\n    num = int(input(\"Enter a number: \"))\n    if num < 0:\n        raise NegativeNumberError(\"Error: Negative numbers are not allowed.\")\nexcept NegativeNumberError as e:\n    print(e)\nelse:\n    print(f\"You entered: {num}\")",
+        "detail": "08-06-2024.Exception Handling",
+        "documentation": {}
+    },
+    {
+        "label": "divide_numbers",
+        "kind": 2,
+        "importPath": "08-06-2024.Exception Handling",
+        "description": "08-06-2024.Exception Handling",
+        "peekOfCode": "def divide_numbers(a, b):\n    try:\n        result = a / b\n    except ZeroDivisionError:\n        print(\"Error: Division by zero is not allowed.\")\n    else:\n        print(f\"Result: {result}\")\ndivide_numbers(10, 2)  # Output: Result: 5.0\ndivide_numbers(5, 0)   # Output: Error: Division by zero is not allowed.\n# Write a program that reads a file and prints its contents. Handle the case when the file doesn't exist.",
+        "detail": "08-06-2024.Exception Handling",
+        "documentation": {}
+    },
+    {
+        "label": "sum_numbers",
+        "kind": 2,
+        "importPath": "08-06-2024.Exception Handling",
+        "description": "08-06-2024.Exception Handling",
+        "peekOfCode": "def sum_numbers(numbers):\n    total = 0\n    try:\n        for num in numbers:\n            total += num\n    except TypeError:\n        print(\"Error: Non-numeric value found in the list.\")\n    else:\n        print(f\"Sum: {total}\")\nsum_numbers([1, 2, 3, 4, 5])  # Output: Sum: 15",
+        "detail": "08-06-2024.Exception Handling",
+        "documentation": {}
+    },
+    {
+        "label": "Parent",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Parent:\n    def __init__(self):\n        self.value = \"Parent\"\n    def show(self):\n        print(self.value)\nclass Child(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child\"\nobj = Child()",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Child",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Child(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child\"\nobj = Child()\nobj.show()  # Output: Child\n#Multiple Inheritance\nclass Parent1:\n    def __init__(self):\n        self.value = \"Parent1\"",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Parent1",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Parent1:\n    def __init__(self):\n        self.value = \"Parent1\"\n    def show1(self):\n        print(self.value)\nclass Parent2:\n    def __init__(self):\n        self.value = \"Parent2\"\n    def show2(self):\n        print(self.value)",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Parent2",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Parent2:\n    def __init__(self):\n        self.value = \"Parent2\"\n    def show2(self):\n        print(self.value)\nclass Child(Parent1, Parent2):\n    def __init__(self):\n        Parent1.__init__(self)\n        Parent2.__init__(self)\nobj = Child()",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Child",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Child(Parent1, Parent2):\n    def __init__(self):\n        Parent1.__init__(self)\n        Parent2.__init__(self)\nobj = Child()\nobj.show1()  # Output: Parent1\nobj.show2()  # Output: Parent2\n#Multilevel Inheritance\nclass GrandParent:\n    def __init__(self):",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "GrandParent",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class GrandParent:\n    def __init__(self):\n        self.value = \"GrandParent\"\n    def show(self):\n        print(self.value)\nclass Parent(GrandParent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Parent\"\nclass Child(Parent):",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Parent",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Parent(GrandParent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Parent\"\nclass Child(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child\"\nobj = Child()\nobj.show()  # Output: Child",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Child",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Child(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child\"\nobj = Child()\nobj.show()  # Output: Child\n#Hierarchical inheritance\nclass Parent:\n    def __init__(self):\n        self.value = \"Parent\"",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Parent",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Parent:\n    def __init__(self):\n        self.value = \"Parent\"\n    def show(self):\n        print(self.value)\nclass Child1(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child1\"\nclass Child2(Parent):",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Child1",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Child1(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child1\"\nclass Child2(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child2\"\nobj1 = Child1()\nobj1.show()  # Output: Child1",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Child2",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Child2(Parent):\n    def __init__(self):\n        super().__init__()\n        self.value = \"Child2\"\nobj1 = Child1()\nobj1.show()  # Output: Child1\nobj2 = Child2()\nobj2.show()  # Output: Child2\n#Create a class Animal with attributes name and species. Create a derived class Mammal that inherits from Animal.\n#  Add a new attribute mammal_type to the Mammal class. Create an instance of the Mammal class",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Animal:\n    def __init__(self, name, species):\n        self.name = name\n        self.species = species\nclass Mammal(Animal):\n    def __init__(self, name, species, mammal_type):\n        super().__init__(name, species)\n        self.mammal_type = mammal_type\n# Create an instance of the Mammal class\nmammal = Mammal(\"Lion\", \"Feline\", \"Carnivore\")",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "Mammal",
+        "kind": 6,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "class Mammal(Animal):\n    def __init__(self, name, species, mammal_type):\n        super().__init__(name, species)\n        self.mammal_type = mammal_type\n# Create an instance of the Mammal class\nmammal = Mammal(\"Lion\", \"Feline\", \"Carnivore\")\n# Print the attributes\nprint(f\"Name: {mammal.name}\")\nprint(f\"Species: {mammal.species}\")\nprint(f\"Mammal Type: {mammal.mammal_type}\")",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "obj = Child()\nobj.show()  # Output: Child\n#Multiple Inheritance\nclass Parent1:\n    def __init__(self):\n        self.value = \"Parent1\"\n    def show1(self):\n        print(self.value)\nclass Parent2:\n    def __init__(self):",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "obj = Child()\nobj.show1()  # Output: Parent1\nobj.show2()  # Output: Parent2\n#Multilevel Inheritance\nclass GrandParent:\n    def __init__(self):\n        self.value = \"GrandParent\"\n    def show(self):\n        print(self.value)\nclass Parent(GrandParent):",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "obj",
+        "kind": 5,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "obj = Child()\nobj.show()  # Output: Child\n#Hierarchical inheritance\nclass Parent:\n    def __init__(self):\n        self.value = \"Parent\"\n    def show(self):\n        print(self.value)\nclass Child1(Parent):\n    def __init__(self):",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "obj1",
+        "kind": 5,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "obj1 = Child1()\nobj1.show()  # Output: Child1\nobj2 = Child2()\nobj2.show()  # Output: Child2\n#Create a class Animal with attributes name and species. Create a derived class Mammal that inherits from Animal.\n#  Add a new attribute mammal_type to the Mammal class. Create an instance of the Mammal class\n#  and print its attributes.\nclass Animal:\n    def __init__(self, name, species):\n        self.name = name",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "obj2",
+        "kind": 5,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "obj2 = Child2()\nobj2.show()  # Output: Child2\n#Create a class Animal with attributes name and species. Create a derived class Mammal that inherits from Animal.\n#  Add a new attribute mammal_type to the Mammal class. Create an instance of the Mammal class\n#  and print its attributes.\nclass Animal:\n    def __init__(self, name, species):\n        self.name = name\n        self.species = species\nclass Mammal(Animal):",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "mammal",
+        "kind": 5,
+        "importPath": "08-06-2024.Inheritance",
+        "description": "08-06-2024.Inheritance",
+        "peekOfCode": "mammal = Mammal(\"Lion\", \"Feline\", \"Carnivore\")\n# Print the attributes\nprint(f\"Name: {mammal.name}\")\nprint(f\"Species: {mammal.species}\")\nprint(f\"Mammal Type: {mammal.mammal_type}\")\n\"\"\" EXPECTED OUTPUT\"\"\"\n# Name: Lion\n# Species: Feline\n# Mammal Type: Carnivore",
+        "detail": "08-06-2024.Inheritance",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "l = []\nl.append(5)\nl.append(10)\nprint(\"List after appending:\", l)\n#2.Pop an element from a list:\nl = [5, 10]\nl.pop()\nprint(\"List after popping:\", l)\n### 2. Tuples\n#1.Create a tuple and access its elements:",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "l = [5, 10]\nl.pop()\nprint(\"List after popping:\", l)\n### 2. Tuples\n#1.Create a tuple and access its elements:\nt = (5, 10)\nprint(\"Tuple:\", t)\nprint(\"Accessing elements:\", t[0], t[1])\n#2.Create a tuple from a list:\nl = [5, 10]",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "t = (5, 10)\nprint(\"Tuple:\", t)\nprint(\"Accessing elements:\", t[0], t[1])\n#2.Create a tuple from a list:\nl = [5, 10]\nt = tuple(l)\nprint(\"Tuple from list:\", t)\n### 3. Sets\n#1.Create a set and add elements to it:\ns = set()",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "l = [5, 10]\nt = tuple(l)\nprint(\"Tuple from list:\", t)\n### 3. Sets\n#1.Create a set and add elements to it:\ns = set()\ns.add(5)\ns.add(10)\nprint(\"Set after adding:\", s)\n#2.Remove an element from a set:",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "t",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "t = tuple(l)\nprint(\"Tuple from list:\", t)\n### 3. Sets\n#1.Create a set and add elements to it:\ns = set()\ns.add(5)\ns.add(10)\nprint(\"Set after adding:\", s)\n#2.Remove an element from a set:\ns = {5, 10}",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "s = set()\ns.add(5)\ns.add(10)\nprint(\"Set after adding:\", s)\n#2.Remove an element from a set:\ns = {5, 10}\ns.remove(5)\nprint(\"Set after removing:\", s)\n### 4. Dictionaries\n#1.Create a dictionary and add key-value pairs:",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "s",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "s = {5, 10}\ns.remove(5)\nprint(\"Set after removing:\", s)\n### 4. Dictionaries\n#1.Create a dictionary and add key-value pairs:\nd = {}\nd[\"Five\"] = 5\nd[\"Ten\"] = 10\nprint(\"Dictionary:\", d)\n#2.Remove a key-value pair from a dictionary:",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "d = {}\nd[\"Five\"] = 5\nd[\"Ten\"] = 10\nprint(\"Dictionary:\", d)\n#2.Remove a key-value pair from a dictionary:\nd = {\"Five\": 5, \"Ten\": 10}\ndel d[\"Five\"]\nprint(\"Dictionary after removing:\", d)\n### 5. Comprehensions\n#1.Use a list comprehension to double the elements of a list:",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "d[\"Five\"]",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "d[\"Five\"] = 5\nd[\"Ten\"] = 10\nprint(\"Dictionary:\", d)\n#2.Remove a key-value pair from a dictionary:\nd = {\"Five\": 5, \"Ten\": 10}\ndel d[\"Five\"]\nprint(\"Dictionary after removing:\", d)\n### 5. Comprehensions\n#1.Use a list comprehension to double the elements of a list:\nl = [4, 6, 7, 3, 2, 10, 4]",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "d[\"Ten\"]",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "d[\"Ten\"] = 10\nprint(\"Dictionary:\", d)\n#2.Remove a key-value pair from a dictionary:\nd = {\"Five\": 5, \"Ten\": 10}\ndel d[\"Five\"]\nprint(\"Dictionary after removing:\", d)\n### 5. Comprehensions\n#1.Use a list comprehension to double the elements of a list:\nl = [4, 6, 7, 3, 2, 10, 4]\nnew_list = [item * 2 for item in l]",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "d = {\"Five\": 5, \"Ten\": 10}\ndel d[\"Five\"]\nprint(\"Dictionary after removing:\", d)\n### 5. Comprehensions\n#1.Use a list comprehension to double the elements of a list:\nl = [4, 6, 7, 3, 2, 10, 4]\nnew_list = [item * 2 for item in l]\nprint(\"New list:\", new_list)\n#2.Use a dictionary comprehension to create a dictionary from two lists:\nnames = [\"James\", \"Mary\", \"Kate\"]",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "l",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "l = [4, 6, 7, 3, 2, 10, 4]\nnew_list = [item * 2 for item in l]\nprint(\"New list:\", new_list)\n#2.Use a dictionary comprehension to create a dictionary from two lists:\nnames = [\"James\", \"Mary\", \"Kate\"]\nnumbers = [10, 20, 15]\nsome_dictionary = {key: value for key, value in zip(names, numbers)}\nprint(\"Dictionary:\", some_dictionary)\n### 6. Tuple Unpacking\n#1. Unpack a tuple into individual variables:",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "new_list",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "new_list = [item * 2 for item in l]\nprint(\"New list:\", new_list)\n#2.Use a dictionary comprehension to create a dictionary from two lists:\nnames = [\"James\", \"Mary\", \"Kate\"]\nnumbers = [10, 20, 15]\nsome_dictionary = {key: value for key, value in zip(names, numbers)}\nprint(\"Dictionary:\", some_dictionary)\n### 6. Tuple Unpacking\n#1. Unpack a tuple into individual variables:\ndetails = (\"John\", 28, \"New York\")",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "names",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "names = [\"James\", \"Mary\", \"Kate\"]\nnumbers = [10, 20, 15]\nsome_dictionary = {key: value for key, value in zip(names, numbers)}\nprint(\"Dictionary:\", some_dictionary)\n### 6. Tuple Unpacking\n#1. Unpack a tuple into individual variables:\ndetails = (\"John\", 28, \"New York\")\nname, age, city = details\nprint(\"Name:\", name)\nprint(\"Age:\", age)",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "numbers = [10, 20, 15]\nsome_dictionary = {key: value for key, value in zip(names, numbers)}\nprint(\"Dictionary:\", some_dictionary)\n### 6. Tuple Unpacking\n#1. Unpack a tuple into individual variables:\ndetails = (\"John\", 28, \"New York\")\nname, age, city = details\nprint(\"Name:\", name)\nprint(\"Age:\", age)\nprint(\"City:\", city)",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "some_dictionary",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "some_dictionary = {key: value for key, value in zip(names, numbers)}\nprint(\"Dictionary:\", some_dictionary)\n### 6. Tuple Unpacking\n#1. Unpack a tuple into individual variables:\ndetails = (\"John\", 28, \"New York\")\nname, age, city = details\nprint(\"Name:\", name)\nprint(\"Age:\", age)\nprint(\"City:\", city)\n#2. Swap two numbers using a tuple:",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "details",
+        "kind": 5,
+        "importPath": "10-06-2024.List.Dictionary.tuple and sets",
+        "description": "10-06-2024.List.Dictionary.tuple and sets",
+        "peekOfCode": "details = (\"John\", 28, \"New York\")\nname, age, city = details\nprint(\"Name:\", name)\nprint(\"Age:\", age)\nprint(\"City:\", city)\n#2. Swap two numbers using a tuple:\na, b = 10, 20\nprint(\"Before swap:\", a, b)\na, b = b, a\nprint(\"After swap:\", a, b)",
+        "detail": "10-06-2024.List.Dictionary.tuple and sets",
+        "documentation": {}
+    },
+    {
+        "label": "X",
+        "kind": 5,
+        "importPath": "11-06-2024.TKINTER",
+        "description": "11-06-2024.TKINTER",
+        "peekOfCode": "X = Label(root,text=\"Hello, world!\") #CREATING a LABEL widget as a child to the root window\n                                     #Default text set to Helo world!\n#A label window can display either a text or icon or other image\nX.pack()     #Calling the pack method\n             #Tells the widget to size itself to fit the given text and make itself visible\n             #Tells the geometry manager to put widgets in same row or column\nroot.mainloop()  #The application window does not appear before you enter the main loop.\n                 # This method says to take all the widgets and objects created, render them on our screen\n                  #AND respond to any interactions\n#The program stays in loop until until we close the window",
+        "detail": "11-06-2024.TKINTER",
+        "documentation": {}
+    }
+]
