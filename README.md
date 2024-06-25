@@ -21,4 +21,9 @@ In this project l will be learning and consistently practicing my coding skills 
                              | ENTRY            |
                              | FRAME            |
                              | CHECKBUTTON      |
+                             
+13 JUNE 2024 : TOPICS COVERED| LISTBOX          |
+                             | SCROLLBAR        |
+                             | MENU             |
+                             | CANVAS           |
                              | RADIOBUTTON      |
